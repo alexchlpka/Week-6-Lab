@@ -6,5 +6,6 @@ The program will take a name and the year of that person born. Calulate the the 
 
 ## group member
 - Jackson Frank
+- Jenny Lee
 - Guangrui Wang
 - Alexander Chlpka
